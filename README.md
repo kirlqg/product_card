@@ -40,5 +40,3 @@ for(let i = 0; i < 100;i++){
 }
 ```
 
-*The product card is designed using a class,
-a picture of the product, its price and a buy button are displayed*
