@@ -11,6 +11,7 @@ class productCard{
       
 
         const product = document.createElement("div");
+        product.className("card")
         product.innerHTML = 
         `
         <img src="${this.imgLink}">
